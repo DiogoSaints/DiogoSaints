@@ -1,4 +1,14 @@
-[![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoSaints)](https://github.com/DiogoSaints/github-readme-stats)
+![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoSaints&count_private=true&show_icons=true&theme=tokyonight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSaints&layout=compact&theme=tokyonight)](https://github.com/DiogoSaints/github-readme-stats)
+
+<a href="https://github.com/DiogoSaints/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoSaints&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/DiogoSaints/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoSaints&repo=convoychat" />
+</a>
 
 
 <div style="display: inline_block"><br>
