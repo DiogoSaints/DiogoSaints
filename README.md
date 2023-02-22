@@ -1,14 +1,14 @@
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoSaints&count_private=true&show_icons=true&theme=tokyonight)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=582270&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Diogo+Silva+dos+Santos;I'm+21+years+old;I+am+from+Gravataí,+RS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DiogoSaints&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=582270&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Silva dos Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSaints&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+  
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSaints&layout=compact&theme=tokyonight)](https://github.com/DiogoSaints/github-readme-stats)
-
-<a href="https://github.com/DiogoSaints/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoSaints&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/DiogoSaints/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoSaints&repo=convoychat" />
-</a>
 
 
 <div style="display: inline_block"><br>
@@ -29,3 +29,5 @@
   <a href="https://www.linkedin.com/in/diogo-silva-dos-santos-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=582270&height=120&section=footer"/>
