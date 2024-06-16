@@ -1,33 +1,44 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=582270&height=120&section=header"/>
+<div align="center">
+  <img width="100%" height="200px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <h1 style="font-size: 36px; color: #00FF00;">👋 Hello, I'm Diogo Silva dos Santos</h1>
+  <p style="font-size: 20px;">A passionate software developer from Gravataí, RS, Brazil.</p>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Diogo+Silva+dos+Santos;I'm+21+years+old;I+am+from+Gravataí,+RS;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DiogoSaints&custom_title=Diogo's+GitHub+stats&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=582270&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Silva dos Santos github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSaints&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <div style="text-align: left;">
+    <h2 style="font-size: 24px; color: #00bfbf;">About Me</h2>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li>🎓 Computer Science Student</li>
+      <li>🚀 Full-stack Developer</li>
+      <li>🌱 Learning React.js and Node.js</li>
+      <li>⚡ Fun fact: I love to play video games and read books</li>
+    </ul>
+  </div>
+  
+  <h2 style="font-size: 24px; color: #00bfbf;">Skills</h2>
+  <div style="display: flex; justify-content: center;">
+    <div style="margin-right: 20px;">
+      <h3 style="color: #00FF00;">Frontend</h3>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js">
+    </div>
+    <div>
+      <h3 style="color: #00FF00;">Backend</h3>
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
+      <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+    </div>
+  </div>
 </div>
-  
- 
 
-
-
-<div style="display: inline_flex" align="center" ><br>
-  <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
-  
-  ##
- 
-<div> 
- 
-  <a href="https://www.instagram.com/diogo_santos311/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="http://discordapp.com/users/296708751140847617" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:diogo.s.santos31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diogo-silva-dos-santos-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+  <h2 style="font-size: 24px; color: #00bfbf;">Get in Touch</h2>
+  <p style="font-size: 20px;">Feel free to reach out to me via:</p>
+  <a href="https://www.instagram.com/diogo_santos311/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+  <a href="http://discordapp.com/users/296708751140847617" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord"></a> 
+  <a href="mailto:diogo.s.santos31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/diogo-silva-dos-santos-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a> 
 </div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=582270&height=120&section=footer"/>
+
+<div align="center">
+  <img width="100%" height="200px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
